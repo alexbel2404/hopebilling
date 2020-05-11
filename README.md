@@ -17,6 +17,8 @@ The follwing integrations are presently supported -
 
 ## Installation and Configuration
 
+MySQL 5.6(!!!), not working with 5.7 or higher.
+
 An extensive documentation is available <a href="https://github.com/vityabond/hopebilling/wiki" target="_blank">here</a>!
 
 ## Donation
